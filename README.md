@@ -18,15 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gözde Sarıkaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gozdesarikayaa&label=Profile%20views&color=0e75b6&style=flat" alt="gozdesarikayaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gozdesarikayaa" alt="gozdesarikayaa" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **ggozdesarikaya@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
