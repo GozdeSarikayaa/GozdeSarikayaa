@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Gözde Sarıkaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gozdesarikayaa&label=Profile%20views&color=0e75b6&style=flat" alt="gozdesarikayaa" /> </p>
-
+<img align="right" alt="Coding" width="400" src=https://www.shutterstock.com/image-vector/sad-business-woman-repairing-computer-260nw-1967844139.jpg
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **ggozdesarikaya@gmail.com**
