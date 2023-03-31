@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gozdesarikayaa&label=Profile%20views&color=0e75b6&style=flat" alt="gozdesarikayaa" /> </p>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif
      
+     
 - 🌱 I’m currently learning **JavaScript**    
 - 📫 How to reach me **ggozdesarikaya@gmail.com**
 
