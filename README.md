@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Gözde Sarıkaya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gozdesarikayaa&label=Profile%20views&color=0e75b6&style=flat" alt="gozdesarikayaa" /> </p>
 
 <h1 align="center">Hi 👋, I'm Gözde Sarıkaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gozdesarikayaa&label=Profile%20views&color=0e75b6&style=flat" alt="gozdesarikayaa" /> </p>
